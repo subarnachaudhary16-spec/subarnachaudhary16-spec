@@ -1,5 +1,5 @@
 # 💫 About Me:
-name = "Subarna Chaudhary"<br>location = "Nepal NP"<br>role = "UI designer & frontend Developer"<br>mission = "Build impactful AI/ML solution & contribute"<br>Fun fact= " I learn any tech needed to own the full pieline.<br>
+name = "Subarna Chaudhary"<br>location = "Nepal NP"<br>role = "UI designer & Full stack Developer"<br>mission = "Build impactful AI/ML solution & contribute"<br>Fun fact= " I learn any tech needed to own the full pieline.<br>
 
 
 ## 🌐 Socials:
